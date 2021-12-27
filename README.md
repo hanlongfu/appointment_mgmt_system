@@ -1,4 +1,4 @@
-# appointment_mgmt_system
+# Appointment Management System
 
 This application can manage customers and their associated appointments for an orgnization.  The application has a frontend written in Java and JavaFX and a backend supported by MySQL database. 
 
